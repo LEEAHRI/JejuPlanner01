@@ -139,7 +139,7 @@
 		
 		//모달 뿌려주는 ajax
 		function modalSelect(placeId){
-			alert("장소아이디:"+placeId)
+			
 			$.ajax({
 					url:"${pageContext.request.contextPath}/admin/modalSelect", 
 					type:"post", 
@@ -169,7 +169,7 @@
 		};
 		$(document).on("click","#modal", function(){
 			var targetPlace = $(this).attr('placeId')
-			alert(targetPlace)
+			
 			modalSelect(targetPlace);
 		});
 

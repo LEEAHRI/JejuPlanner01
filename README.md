@@ -10,7 +10,7 @@
 
 - 개발 기간: 2022.05.01 ~ 2020.06.20 (약 6주)
 
-- 참여 인원: 4명(김정현,손채정,박민서,이준원,이아리)
+- 참여 인원: 5명(김정현,이아리,박민서,이준원,손채정)
 
 ### BULT WITH
 - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/><img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=BOOTSTRAP&logoColor=white"/><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"><img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
